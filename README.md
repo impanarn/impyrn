@@ -26,7 +26,7 @@ I'm a second year Computer Science Engineering student <img src="https://media.g
 
 - :telescope: I'm interested in Computer Programming, IoTs and Cloud Computing
 
-- :mailbox: You can reach me out at impanarn15@gmail.com
+- :mailbox: You can reach out to me at impanarn15@gmail.com
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -34,4 +34,7 @@ I'm a second year Computer Science Engineering student <img src="https://media.g
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg"title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  </div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg"title="Anaconda" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg"title="Visualstudio" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg"title="Anaconda" alt="Jupyter" width="40" height="40"/>&nbsp;
+</div>
