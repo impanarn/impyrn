@@ -17,7 +17,7 @@
 
 
 ### :woman_technologist: About Me :
-I'm a second year Computer Science Engineering student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I'm a third year Computer Science Engineering student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :mortar_board: I'm studying at Dr. Ambedkar Institute of Technology
 
 - :seedling: I love writing code
